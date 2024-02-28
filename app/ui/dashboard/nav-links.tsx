@@ -21,7 +21,8 @@ const links = [
     icon: DocumentDuplicateIcon,
   },
   { name: '11/23', href: '/dashboard/11/23', icon: UserGroupIcon },
-  { name: '12/24', href: '/dashboard/12/24', icon: UserGroupIcon }
+  { name: '12/24', href: '/dashboard/12/24', icon: UserGroupIcon },
+  { name: '02/28', href: '/dashboard/02/28', icon: UserGroupIcon }
 ];
 
 export default function NavLinks() {
